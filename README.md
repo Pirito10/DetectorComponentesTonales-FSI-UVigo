@@ -29,7 +29,7 @@ deteccion_tonos(<file>, <mode>);
 
 #### Example
 ```matlab
-deteccion_tonos(sounds/tonal/dial.wav, 0)
+deteccion_tonos(sounds/tonal/dial.wav, 0);
 ```
 
 ## About The Code
