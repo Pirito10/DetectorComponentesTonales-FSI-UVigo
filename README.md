@@ -25,7 +25,7 @@ deteccion_tonos(<file>, <mode>);
 | Option | Description | Example |
 |--------|-------------|---------|
 | `file` | File to analyze | `dial.wav` |
-| `mode` | Enables (`1`) or disables (`0`) the tuner | `0` |
+| `mode` | Enable (`1`) or disable (`0`) the tuner | `0` |
 
 #### Example
 ```matlab
