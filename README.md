@@ -22,10 +22,10 @@ Make sure you have [MATLAB](https://www.mathworks.com/products/matlab.html) inst
 ```matlab
 deteccion_tonos(<file>, <mode>);
 ```
-| Option | Description |
-|--------|-------------|
-| `file` | Specifies the file to analyze |
-| `mode` | Enables (`1`) or disables (`0`) the tuner |
+| Option | Description | Example |
+|--------|-------------|---------|
+| `file` | File to analyze | `dial.wav` |
+| `mode` | Enables (`1`) or disables (`0`) the tuner | `0` |
 
 #### Example
 ```matlab
